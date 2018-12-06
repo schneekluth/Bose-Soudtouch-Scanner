@@ -1,6 +1,8 @@
 # Bose-Soudtouch-Scanner
 List all Bose Soundtouch devices on your network incl. zone status.
 
+![Screenshot](https://raw.githubusercontent.com/schneekluth/Bose-Soudtouch-Scanner/master/preview.jpg)
+
 ### Prerequisites
 pip3 install libsoundtouch PTable
 

@@ -1,4 +1,4 @@
-# Bose-Soudtouch-Scanner
+# Bose-Soundtouch-Scanner
 List all Bose Soundtouch devices on your network incl. zone status.
 
 ![Screenshot](https://raw.githubusercontent.com/schneekluth/Bose-Soudtouch-Scanner/master/preview.jpg)
